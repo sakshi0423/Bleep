@@ -1,3 +1,3 @@
 #include <string>
 #include <iostream>
-void bleep(std::string &text, std::string word);
+void bleep(std::string &text, std::string word); 

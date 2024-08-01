@@ -10,5 +10,5 @@ int main() {
   std::cout << text << "\n";
   std::cin.get();
   
-  return 0;
+  return 0; 
 }
